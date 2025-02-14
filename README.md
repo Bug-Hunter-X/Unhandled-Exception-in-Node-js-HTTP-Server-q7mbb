@@ -1,0 +1,3 @@
+# Unhandled Exception in Node.js HTTP Server
+
+This repository demonstrates an uncommon error in Node.js where an unhandled exception in an HTTP server causes the server to crash.  The example shows how to properly handle exceptions using error events to prevent unexpected crashes and improve the application's stability. The solution demonstrates robust error handling practices within an HTTP server context.
